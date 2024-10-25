@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mateusz\\Desktop\\mateus\\STUDIA\\2ST\\ZTP\\LAB2\\Lab2App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BD649F-12F8-4984-8671-CFA72EAD3403}|Lab2App.csproj|c:\\users\\mateusz\\desktop\\mateus\\studia\\2st\\ztp\\lab2\\lab2app\\viewmodel\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BD649F-12F8-4984-8671-CFA72EAD3403}|Lab2App.csproj|solutionrelative:viewmodel\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BD649F-12F8-4984-8671-CFA72EAD3403}|Lab2App.csproj|c:\\users\\mateusz\\desktop\\mateus\\studia\\2st\\ztp\\lab2\\lab2app\\viewmodel\\productdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BD649F-12F8-4984-8671-CFA72EAD3403}|Lab2App.csproj|solutionrelative:viewmodel\\productdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BD649F-12F8-4984-8671-CFA72EAD3403}|Lab2App.csproj|c:\\users\\mateusz\\desktop\\mateus\\studia\\2st\\ztp\\lab2\\lab2app\\viewmodel\\productaddviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BD649F-12F8-4984-8671-CFA72EAD3403}|Lab2App.csproj|solutionrelative:viewmodel\\productaddviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BD649F-12F8-4984-8671-CFA72EAD3403}|Lab2App.csproj|c:\\users\\mateusz\\desktop\\mateus\\studia\\2st\\ztp\\lab2\\lab2app\\views\\productlistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F7BD649F-12F8-4984-8671-CFA72EAD3403}|Lab2App.csproj|solutionrelative:views\\productlistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BD649F-12F8-4984-8671-CFA72EAD3403}|Lab2App.csproj|c:\\users\\mateusz\\desktop\\mateus\\studia\\2st\\ztp\\lab2\\lab2app\\views\\productlistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BD649F-12F8-4984-8671-CFA72EAD3403}|Lab2App.csproj|solutionrelative:views\\productlistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BD649F-12F8-4984-8671-CFA72EAD3403}|Lab2App.csproj|c:\\users\\mateusz\\desktop\\mateus\\studia\\2st\\ztp\\lab2\\lab2app\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BD649F-12F8-4984-8671-CFA72EAD3403}|Lab2App.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BD649F-12F8-4984-8671-CFA72EAD3403}|Lab2App.csproj|c:\\users\\mateusz\\desktop\\mateus\\studia\\2st\\ztp\\lab2\\lab2app\\cache\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BD649F-12F8-4984-8671-CFA72EAD3403}|Lab2App.csproj|solutionrelative:cache\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BD649F-12F8-4984-8671-CFA72EAD3403}|Lab2App.csproj|c:\\users\\mateusz\\desktop\\mateus\\studia\\2st\\ztp\\lab2\\lab2app\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BD649F-12F8-4984-8671-CFA72EAD3403}|Lab2App.csproj|solutionrelative:config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BD649F-12F8-4984-8671-CFA72EAD3403}|Lab2App.csproj|c:\\users\\mateusz\\desktop\\mateus\\studia\\2st\\ztp\\lab2\\lab2app\\model\\productsimplifiedmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BD649F-12F8-4984-8671-CFA72EAD3403}|Lab2App.csproj|solutionrelative:model\\productsimplifiedmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BD649F-12F8-4984-8671-CFA72EAD3403}|Lab2App.csproj|c:\\users\\mateusz\\desktop\\mateus\\studia\\2st\\ztp\\lab2\\lab2app\\validation\\productspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BD649F-12F8-4984-8671-CFA72EAD3403}|Lab2App.csproj|solutionrelative:validation\\productspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BD649F-12F8-4984-8671-CFA72EAD3403}|Lab2App.csproj|c:\\users\\mateusz\\desktop\\mateus\\studia\\2st\\ztp\\lab2\\lab2app\\validation\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BD649F-12F8-4984-8671-CFA72EAD3403}|Lab2App.csproj|solutionrelative:validation\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BD649F-12F8-4984-8671-CFA72EAD3403}|Lab2App.csproj|c:\\users\\mateusz\\desktop\\mateus\\studia\\2st\\ztp\\lab2\\lab2app\\model\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BD649F-12F8-4984-8671-CFA72EAD3403}|Lab2App.csproj|solutionrelative:model\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BD649F-12F8-4984-8671-CFA72EAD3403}|Lab2App.csproj|c:\\users\\mateusz\\desktop\\mateus\\studia\\2st\\ztp\\lab2\\lab2app\\cache\\cacheitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BD649F-12F8-4984-8671-CFA72EAD3403}|Lab2App.csproj|solutionrelative:cache\\cacheitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BD649F-12F8-4984-8671-CFA72EAD3403}|Lab2App.csproj|c:\\users\\mateusz\\desktop\\mateus\\studia\\2st\\ztp\\lab2\\lab2app\\views\\productaddview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BD649F-12F8-4984-8671-CFA72EAD3403}|Lab2App.csproj|solutionrelative:views\\productaddview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BD649F-12F8-4984-8671-CFA72EAD3403}|Lab2App.csproj|c:\\users\\mateusz\\desktop\\mateus\\studia\\2st\\ztp\\lab2\\lab2app\\views\\productdetailview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BD649F-12F8-4984-8671-CFA72EAD3403}|Lab2App.csproj|solutionrelative:views\\productdetailview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\mateus\\STUDIA\\2ST\\ZTP\\LAB2\\Lab2App\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\mateus\\STUDIA\\2ST\\ZTP\\LAB2\\Lab2App\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwDoAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:02:43.084Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductListView.xaml",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\mateus\\STUDIA\\2ST\\ZTP\\LAB2\\Lab2App\\Views\\ProductListView.xaml",
+              "RelativeDocumentMoniker": "Views\\ProductListView.xaml",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\mateus\\STUDIA\\2ST\\ZTP\\LAB2\\Lab2App\\Views\\ProductListView.xaml",
+              "RelativeToolTip": "Views\\ProductListView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-25T18:46:59.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductListView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\mateus\\STUDIA\\2ST\\ZTP\\LAB2\\Lab2App\\Views\\ProductListView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ProductListView.xaml.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\mateus\\STUDIA\\2ST\\ZTP\\LAB2\\Lab2App\\Views\\ProductListView.xaml.cs",
+              "RelativeToolTip": "Views\\ProductListView.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T18:42:28.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\mateus\\STUDIA\\2ST\\ZTP\\LAB2\\Lab2App\\ViewModel\\ProductListViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\ProductListViewModel.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\mateus\\STUDIA\\2ST\\ZTP\\LAB2\\Lab2App\\ViewModel\\ProductListViewModel.cs",
+              "RelativeToolTip": "ViewModel\\ProductListViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:57:47.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDetailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\mateus\\STUDIA\\2ST\\ZTP\\LAB2\\Lab2App\\ViewModel\\ProductDetailViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\ProductDetailViewModel.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\mateus\\STUDIA\\2ST\\ZTP\\LAB2\\Lab2App\\ViewModel\\ProductDetailViewModel.cs",
+              "RelativeToolTip": "ViewModel\\ProductDetailViewModel.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwEUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:55:15.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductAddViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\mateus\\STUDIA\\2ST\\ZTP\\LAB2\\Lab2App\\ViewModel\\ProductAddViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\ProductAddViewModel.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\mateus\\STUDIA\\2ST\\ZTP\\LAB2\\Lab2App\\ViewModel\\ProductAddViewModel.cs",
+              "RelativeToolTip": "ViewModel\\ProductAddViewModel.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:55:18.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\mateus\\STUDIA\\2ST\\ZTP\\LAB2\\Lab2App\\Model\\ProductModel.cs",
+              "RelativeDocumentMoniker": "Model\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\mateus\\STUDIA\\2ST\\ZTP\\LAB2\\Lab2App\\Model\\ProductModel.cs",
+              "RelativeToolTip": "Model\\ProductModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA+wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:02:36.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\mateus\\STUDIA\\2ST\\ZTP\\LAB2\\Lab2App\\Config.cs",
+              "RelativeDocumentMoniker": "Config.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\mateus\\STUDIA\\2ST\\ZTP\\LAB2\\Lab2App\\Config.cs",
+              "RelativeToolTip": "Config.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:22:52.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CacheService.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\mateus\\STUDIA\\2ST\\ZTP\\LAB2\\Lab2App\\Cache\\CacheService.cs",
+              "RelativeDocumentMoniker": "Cache\\CacheService.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\mateus\\STUDIA\\2ST\\ZTP\\LAB2\\Lab2App\\Cache\\CacheService.cs",
+              "RelativeToolTip": "Cache\\CacheService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:33:22.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductSimplifiedModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\mateus\\STUDIA\\2ST\\ZTP\\LAB2\\Lab2App\\Model\\ProductSimplifiedModel.cs",
+              "RelativeDocumentMoniker": "Model\\ProductSimplifiedModel.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\mateus\\STUDIA\\2ST\\ZTP\\LAB2\\Lab2App\\Model\\ProductSimplifiedModel.cs",
+              "RelativeToolTip": "Model\\ProductSimplifiedModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:02:33.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\mateus\\STUDIA\\2ST\\ZTP\\LAB2\\Lab2App\\Validation\\ProductSpecification.cs",
+              "RelativeDocumentMoniker": "Validation\\ProductSpecification.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\mateus\\STUDIA\\2ST\\ZTP\\LAB2\\Lab2App\\Validation\\ProductSpecification.cs",
+              "RelativeToolTip": "Validation\\ProductSpecification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:45:42.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISpecification.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\mateus\\STUDIA\\2ST\\ZTP\\LAB2\\Lab2App\\Validation\\ISpecification.cs",
+              "RelativeDocumentMoniker": "Validation\\ISpecification.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\mateus\\STUDIA\\2ST\\ZTP\\LAB2\\Lab2App\\Validation\\ISpecification.cs",
+              "RelativeToolTip": "Validation\\ISpecification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:44:08.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CacheItem.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\mateus\\STUDIA\\2ST\\ZTP\\LAB2\\Lab2App\\Cache\\CacheItem.cs",
+              "RelativeDocumentMoniker": "Cache\\CacheItem.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\mateus\\STUDIA\\2ST\\ZTP\\LAB2\\Lab2App\\Cache\\CacheItem.cs",
+              "RelativeToolTip": "Cache\\CacheItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:22:01.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductDetailView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\mateus\\STUDIA\\2ST\\ZTP\\LAB2\\Lab2App\\Views\\ProductDetailView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ProductDetailView.xaml.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\mateus\\STUDIA\\2ST\\ZTP\\LAB2\\Lab2App\\Views\\ProductDetailView.xaml.cs",
+              "RelativeToolTip": "Views\\ProductDetailView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:55:13.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductAddView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\Desktop\\mateus\\STUDIA\\2ST\\ZTP\\LAB2\\Lab2App\\Views\\ProductAddView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ProductAddView.xaml.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\Desktop\\mateus\\STUDIA\\2ST\\ZTP\\LAB2\\Lab2App\\Views\\ProductAddView.xaml.cs",
+              "RelativeToolTip": "Views\\ProductAddView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:55:09.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

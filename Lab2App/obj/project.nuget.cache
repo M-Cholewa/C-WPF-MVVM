@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oPTaRypzGyDR1pv2WC88/4Ey4hX2DFqhXSxmAIVtKMQcX+1egjsXSEmLL8BwrNJTIh0RE2WqhJXBJz22XngwNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mateusz\\Desktop\\mateus\\STUDIA\\2ST\\ZTP\\LAB2\\Lab2App\\Lab2App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mateusz\\.nuget\\packages\\communitytoolkit.mvvm\\8.3.2\\communitytoolkit.mvvm.8.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,40 @@
+﻿<UserControl x:Class="Lab2App.Views.ProductListView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d"
+             d:DesignHeight="300" d:DesignWidth="300">
+
+    <Grid>
+        <StackPanel Orientation="Horizontal">
+            <Button Content="Odśwież" 
+                HorizontalAlignment="Left" 
+                VerticalAlignment="Top" 
+                Margin="10" 
+                Command="{Binding RefreshCommand}" />
+
+            <Button Content="Dodaj produkt" 
+                HorizontalAlignment="Right" 
+                VerticalAlignment="Top" 
+                Margin="10" 
+                Command="{Binding AddProductCommand}" />
+        </StackPanel>
+
+        <ListView ItemsSource="{Binding Products}"
+                  SelectedItem="{Binding SelectedProduct}"
+                  MouseDoubleClick="OnProductDoubleClick"
+            IsSynchronizedWithCurrentItem="True"
+                  Margin="10,50,10,10">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Id" DisplayMemberBinding="{Binding Id}" />
+                    <GridViewColumn Header="Nazwa" DisplayMemberBinding="{Binding Name}" />
+                    <GridViewColumn Header="Cena" DisplayMemberBinding="{Binding Price}" />
+                    <GridViewColumn Header="Stan" DisplayMemberBinding="{Binding Stock}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+
+</UserControl>
